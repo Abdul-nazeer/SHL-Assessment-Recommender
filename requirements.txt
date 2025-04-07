@@ -1,0 +1,12 @@
+streamlit
+sentence-transformers
+scikit-learn
+numpy
+requests
+flask
+fastapi
+uvicorn
+beautifulsoup4
+python-dotenv
+tqdm
+huggingface_hub
